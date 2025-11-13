@@ -47,7 +47,3 @@ We followed the training strategy described in the official paper, and a ten cro
 ## Contributions
 
 This work was collaboratively conducted by Xinyu Weng, Nan Zhuang, Jingjing Tian and Yingcheng Liu.
-
-## Our Team
-
-All of us are students/interns of Machine Intelligence Lab, Institute of Computer Science & Technology, Peking University, directed by Prof. Yadong Mu (http://www.muyadong.com).
