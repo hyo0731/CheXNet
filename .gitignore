@@ -1,0 +1,16 @@
+# 대용량 파일 무시
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+
+# 이미지/데이터 무시
+/ChestX-ray14
+*.png
+*.jpg
+*.jpeg
+
+# 가상환경, pycache 무시
+
+__pycache__
+env
