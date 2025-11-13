@@ -91,7 +91,7 @@ def main(device):
             output_mean = output.view(bs, n_crops, -1).mean(1)
             pred = torch.cat((pred, output_mean), 0)
 
-    # --- 지표 계산 및 플로팅 ---
+    # --- 지표 계산 및 plot ---
     gt_cpu = gt.cpu()
     pred_cpu = pred.cpu()
     
